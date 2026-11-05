@@ -1,0 +1,15 @@
+{
+  "repository": "module-billing-stripe-nextjs",
+  "capabilityKey": "liberusoftware/billing-stripe",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-billing-stripe-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/billing/nextjs/module-billing-stripe.md",
+  "presentationPlan": "projects/billing/nextjs/module-billing-stripe.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "billing"
+  ]
+}
